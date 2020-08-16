@@ -28,13 +28,13 @@ I am from Turkey, IAT student and JavaScript developer.
 <br />
 
 **Languages and Tools:** &nbsp;
-<code><img height="17" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg"></code>
-<code><img height="17" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/visualstudiocode.svg"></code>
-<code><img height="17" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/node-dot-js.svg"></code>
-<code><img height="17" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/npm.svg"></code>
-<code><img height="17" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/git.svg"></code>
-<code><img height="17" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/windows.svg"></code>
-<code><img height="17" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vim.svg"></code> 
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/visualstudiocode.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/node-dot-js.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/npm.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/git.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/windows.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vim.svg"></code> 
 
 
 <p align="center">
