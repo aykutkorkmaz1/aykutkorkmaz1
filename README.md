@@ -23,7 +23,7 @@
 I am from Turkey, IAT student and JavaScript developer.
 - 📚 I am studying Industrial Automation Technologies (IAT), but I chose programming. I'm in 11th grade.
 - 🎯 My goal is to go abroad after finishing high school for improve my English within programming.
-- 👨‍💻 I am currently developing myself in JavaScript. I love JavaScript and I'm working abouTime project.
+- 👨‍💻 I am currently developing myself in JavaScript. I love JavaScript and I'm working allTime project.
 
 <br />
 
