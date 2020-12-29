@@ -9,13 +9,14 @@ I'm junior software developer.
 </p> <br>
 
 <p align="center">
-<img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg">
-<img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/visualstudiocode.svg">
-<img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/node-dot-js.svg">
-<img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg">
-<img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/npm.svg">
-<img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/git.svg">
-<img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vim.svg">
+Tools & Languages
+<img height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg">
+<img height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/visualstudiocode.svg">
+<img height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/node-dot-js.svg">
+<img height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg">
+<img height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/npm.svg">
+<img height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/git.svg">
+<img height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vim.svg">
 </p>
 
 ![Aykut's github stats](https://github-readme-stats.vercel.app/api?username=aykutkorkmaz1&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
