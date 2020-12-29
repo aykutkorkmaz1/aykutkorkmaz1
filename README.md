@@ -9,7 +9,7 @@ I'm junior software developer.
 </p> <br>
 
 <p align="center">
-Tools & Languages
+Tools & Languages <br>
 <img height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg">
 <img height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/visualstudiocode.svg">
 <img height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/node-dot-js.svg">
