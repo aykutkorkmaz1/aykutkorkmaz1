@@ -17,12 +17,9 @@ Tools & Languages <br>
 <img height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/npm.svg">
 <img height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/git.svg">
 <img height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vim.svg">
-</p> 
-
-<p align="center"> 
-  Visitor count<br>
+Visitor count<br>
   <img src="https://profile-counter.glitch.me/aykutkorkmaz1/count.svg" />
-</p>
+</p> 
 
 ![Aykut's github stats](https://github-readme-stats.vercel.app/api?username=aykutkorkmaz1&theme=chartreuse-dark&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aykutkorkmaz1&layout=compact&theme=chartreuse-dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
