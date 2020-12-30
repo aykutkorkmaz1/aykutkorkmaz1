@@ -34,6 +34,6 @@ Tools & Languages <br>
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width='25' height='25'/>
 </a>
 <a href="https://twitter.com/AykutKorkmazX">
-    <img style="margin-left: 3px;" align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" width='25' height='25'/>
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" width='25' height='25'/>
 </a>
 </p>
