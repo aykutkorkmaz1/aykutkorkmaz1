@@ -22,7 +22,7 @@ Tools & Languages <br>25
 🤔 **Knowledge of:**<br>
 <code>Electricity, Mechatronics, PLC programming, JavaScript, Data Structures and Algorithms</code>
 
-![trophy](https://github-profile-trophy.vercel.app/?username=aykutkorkmaz1)
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=aykutkorkmaz1)  
 ![Aykut's github stats](https://github-readme-stats.vercel.app/api?username=aykutkorkmaz1&theme=chartreuse-dark&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aykutkorkmaz1&layout=compact&theme=chartreuse-dark&show_icons=true)
 
