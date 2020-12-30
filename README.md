@@ -35,6 +35,7 @@ Tools & Languages <br>
 </a>
 <a href="https://github.com/aykutkorkmaz1">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aykutkorkmaz1" alt="Aykut's Streaks">
+</a>
 
  
 <!-- ![Aykut's github stats](https://github-readme-stats.vercel.app/api?username=aykutkorkmaz1&theme=chartreuse-dark&show_icons=true)
