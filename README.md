@@ -1,9 +1,12 @@
 <h2 align='center'><samp><strong>Hey, I'm Aykut 👋.</strong></samp></h2>
 <h3 align='center'><strong><a href="http://aykut.codes" target="_blank">Personal Website 🌐</a></strong></h3>
-<p align='center'><strong>Software developer | Web - JavaScript Developer | Industrial Automation Technologist</strong>![Profile views](https://gpvc.arturio.dev/aykutkorkmaz1)</p>
+<p align='center'><strong>Software developer | Web - JavaScript Developer | Industrial Automation Technologist</strong></p>
+![Profile views](https://gpvc.arturio.dev/aykutkorkmaz1)
 
 As someone who loves computers and especially coding, I enjoy learning something new every day. Writing code is a source of happiness for me. In addition to these, I am studying Industrial Automation Technologies. I have intermediate knowledge of electricity, mechatronics, technical drawing.
 
+🚩 **Highlights:** <br>
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='20' height='20'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='20' height='20'></a> 
 
 Tools & Languages <br>
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032&labelColor=ffffff)
