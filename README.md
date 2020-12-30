@@ -1,5 +1,5 @@
-<h3 align="center"> Hi, I'm Aykut 🙋‍♂️ 👨🏽‍💻 <br>
-</h3> <br>
+<h1 align="center"> Hi, I'm Aykut 🙋‍♂️ 👨🏽‍💻 <br>
+</h1> <br>
 
 As someone who loves computers and especially coding, I enjoy learning something new every day. Writing code is a source of happiness for me. In addition to these, I am studying Industrial Automation Technologies. I have intermediate knowledge of electricity, mechatronics, technical drawing.
 
@@ -19,3 +19,7 @@ Tools & Languages <br>
 
 ![Aykut's github stats](https://github-readme-stats.vercel.app/api?username=aykutkorkmaz1&theme=chartreuse-dark&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aykutkorkmaz1&layout=compact&theme=chartreuse-dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+Contact Me <br>
+[![Linkedin](https://img.shields.io/badge/LinkedIn-Ahmad%20Sawalqeh-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/aykutkorkmazx/)
+[![Twitter](https://img.shields.io/badge/Twitter-Ahmad%20Sawalqeh-blue?logo=Twitter&logoColor=blue&labelColor=black)](https://twitter.com/AykutKorkmazX)
