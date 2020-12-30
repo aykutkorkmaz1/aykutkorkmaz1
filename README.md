@@ -1,5 +1,7 @@
 <h1 align="center"> Hi, I'm Aykut 🙋‍♂️ 👨🏽‍💻 <br>
-</h1> <br>
+<h2 align='center'><strong><a href="http://aykut.codes/" target="_blank">Personal Website 🌐</a></strong></h2>
+<h3 align="center">Software Developer | Web Developer | Industrial Automation Technologist</h3>
+<br>
 
 As someone who loves computers and especially coding, I enjoy learning something new every day. Writing code is a source of happiness for me. In addition to these, I am studying Industrial Automation Technologies. I have intermediate knowledge of electricity, mechatronics, technical drawing.
 
