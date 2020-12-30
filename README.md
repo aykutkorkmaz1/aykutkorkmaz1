@@ -1,12 +1,12 @@
-<h2 align='center'><samp><strong>Hey, I'm Aykut 👋.</strong></samp></h2>
-<h3 align='center'><strong><a href="http://aykut.codes" target="_blank">Personal Website 🌐</a></strong></h3>
-<p align='center'><strong>Software developer | Web - JavaScript Developer | Industrial Automation Technologist</strong></p>
-<p align="center">
-![Profile views](https://gpvc.arturio.dev/aykutkorkmaz1)
+*** Contact Me *** <br>
 [![Linkedin](https://img.shields.io/badge/LinkedIn-Aykut%20Korkmaz-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/aykutkorkmazx/)
 [![Twitter](https://img.shields.io/badge/Twitter-Aykut%20Korkmaz-blue?logo=Twitter&logoColor=blue&labelColor=black)](https://twitter.com/AykutKorkmazX)
 [![Facebook](https://img.shields.io/badge/Facebook-Aykut%20Korkmaz-blue?logo=Facebook&logoColor=blue&labelColor=black)](https://www.facebook.com/aykutkorkmazX)
-</p>
+
+<h2 align='center'><samp><strong>Hey, I'm Aykut 👋.</strong></samp></h2>
+<h3 align='center'><strong><a href="http://aykut.codes" target="_blank">Personal Website 🌐</a></strong></h3>
+<p align='center'><strong>Software developer | Web - JavaScript Developer | Industrial Automation Technologist</strong></p> <br>
+![Profile views](https://gpvc.arturio.dev/aykutkorkmaz1)
 
 As someone who loves computers and especially coding, I enjoy learning something new every day. Writing code is a source of happiness for me. In addition to these, I am studying Industrial Automation Technologies. I have intermediate knowledge of electricity, mechatronics, technical drawing.
 
@@ -28,8 +28,8 @@ Tools & Languages <br>
 <code>Electricity, Mechatronics, PLC programming, JavaScript, Data Structures and Algorithms</code>
  
 ![Aykut's github stats](https://github-readme-stats.vercel.app/api?username=aykutkorkmaz1&theme=chartreuse-dark&show_icons=true)
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=aykutkorkmaz1) 
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aykutkorkmaz1&layout=compact&theme=chartreuse-dark&show_icons=true) -->
+<!-- ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=aykutkorkmaz1) -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aykutkorkmaz1&layout=compact&theme=chartreuse-dark&show_icons=true) 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-Aykut%20Korkmaz-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/aykutkorkmazx/)
 [![Twitter](https://img.shields.io/badge/Twitter-Aykut%20Korkmaz-blue?logo=Twitter&logoColor=blue&labelColor=black)](https://twitter.com/AykutKorkmazX)
