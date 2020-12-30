@@ -1,9 +1,3 @@
-<p><strong>Contact</strong></p> 
-
-[![Linkedin](https://img.shields.io/badge/LinkedIn-Aykut%20Korkmaz-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/aykutkorkmazx/)
-[![Twitter](https://img.shields.io/badge/Twitter-Aykut%20Korkmaz-blue?logo=Twitter&logoColor=blue&labelColor=black)](https://twitter.com/AykutKorkmazX)
-[![Facebook](https://img.shields.io/badge/Facebook-Aykut%20Korkmaz-blue?logo=Facebook&logoColor=blue&labelColor=black)](https://www.facebook.com/aykutkorkmazX)
-
 <h2 align='center'><samp><strong>Hey, I'm Aykut 👋.</strong></samp></h2>
 <h3 align='center'><strong><a href="http://aykut.codes" target="_blank">Personal Website 🌐</a></strong></h3>
 <p align='center'><strong>Software developer | Web - JavaScript Developer | Industrial Automation Technologist</strong></p> <br>
@@ -33,3 +27,14 @@ Tools & Languages <br>
 <a href="https://github.com/aykutkorkmaz1">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=aykutkorkmaz1&show_icons=true&line_height=27&count_private=true&theme=chartreuse-dark" alt="Aykut's GitHub Stats" />
 </a>
+
+Social Accounts: <br>
+<a href="https://www.linkedin.com/in/aykutkorkmazx/">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
+</a>
+<a href="">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/>
+</a>
+[![Linkedin](https://img.shields.io/badge/LinkedIn-Aykut%20Korkmaz-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/aykutkorkmazx/)
+[![Twitter](https://img.shields.io/badge/Twitter-Aykut%20Korkmaz-blue?logo=Twitter&logoColor=blue&labelColor=black)](https://twitter.com/AykutKorkmazX)
+[![Facebook](https://img.shields.io/badge/Facebook-Aykut%20Korkmaz-blue?logo=Facebook&logoColor=blue&labelColor=black)](https://www.facebook.com/aykutkorkmazX)
