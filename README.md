@@ -1,6 +1,6 @@
 <h2 align='center'><samp><strong>Hey, I'm Aykut 👋.</strong></samp></h2>
 <h3 align='center'><strong><a href="http://aykut.codes" target="_blank">Personal Website 🌐</a></strong></h3>
-<p align='center'>Software developer | Web - JavaScript Developer | Industrial Automation Technologist</p>
+<p align='center'><strong>Software developer | Web - JavaScript Developer | Industrial Automation Technologist</strong></p>
 
 As someone who loves computers and especially coding, I enjoy learning something new every day. Writing code is a source of happiness for me. In addition to these, I am studying Industrial Automation Technologies. I have intermediate knowledge of electricity, mechatronics, technical drawing.
 
@@ -16,7 +16,8 @@ Tools & Languages <br>
 ![Nodejs](https://img.shields.io/badge/-Nodejs-000000?style=flat&logo=Node.js)
 ![NPM](https://img.shields.io/badge/-npm-000000?style=flat&logo=npm&labelColor=ffffff)
 
-
+🤔 **Knowledge of:**<br>
+<code>Electricity, Mechatronics, PLC programming, JavaScript, Data Structures and Algorithms</code>
 
 ![Aykut's github stats](https://github-readme-stats.vercel.app/api?username=aykutkorkmaz1&theme=chartreuse-dark&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aykutkorkmaz1&layout=compact&theme=chartreuse-dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
