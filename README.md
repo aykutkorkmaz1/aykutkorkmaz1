@@ -1,6 +1,6 @@
 <h2 align='center'><samp><strong>Hey, I'm Aykut 👋.</strong></samp></h2>
 <h3 align='center'><strong><a href="http://aykut.codes" target="_blank">Personal Website 🌐</a></strong></h3>
-<p align='center'><strong>Software developer | Web - JavaScript Developer | Industrial Automation Technologist</strong></p>
+<p align='center'><strong>Software developer | Web - JavaScript Developer | Industrial Automation Technologist</strong>![Profile views](https://gpvc.arturio.dev/aykutkorkmaz1)</p>
 
 As someone who loves computers and especially coding, I enjoy learning something new every day. Writing code is a source of happiness for me. In addition to these, I am studying Industrial Automation Technologies. I have intermediate knowledge of electricity, mechatronics, technical drawing.
 
@@ -23,5 +23,5 @@ Tools & Languages <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aykutkorkmaz1&layout=compact&theme=chartreuse-dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 Contact Me <br>
-[![Linkedin](https://img.shields.io/badge/LinkedIn-Ahmad%20Sawalqeh-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/aykutkorkmazx/)
-[![Twitter](https://img.shields.io/badge/Twitter-Ahmad%20Sawalqeh-blue?logo=Twitter&logoColor=blue&labelColor=black)](https://twitter.com/AykutKorkmazX)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-Aykut%20Korkmaz-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/aykutkorkmazx/)
+[![Twitter](https://img.shields.io/badge/Twitter-Aykut%20Korkmaz-blue?logo=Twitter&logoColor=blue&labelColor=black)](https://twitter.com/AykutKorkmazX)
