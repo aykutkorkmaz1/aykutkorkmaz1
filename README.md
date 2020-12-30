@@ -9,8 +9,8 @@ As someone who loves computers and especially coding, I enjoy learning something
 <a><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='25' height='25'/></a> 
 
 Tools & Languages <br>
-![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032&labelColor=ffffff)
-![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=000000&labelColor=ffffff)
+![Git](https://img.shields.io/badge/-Git-000000?style=flat_square&logo=git&logoColor=F05032&labelColor=ffffff)
+![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat_square&logo=github&logoColor=000000&labelColor=ffffff)
 ![Visual Studio Code](https://img.shields.io/badge/-VSCode-000000?style=flat&logo=visual-studio-code&labelColor=007ACC)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5&logoColor=ffffff&labelColor=E34F26)
 ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3&logoColor=ffffff&labelColor=1572B6) 
@@ -27,7 +27,7 @@ Tools & Languages <br>
 </a>
 <a href="https://github.com/aykutkorkmaz1">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=aykutkorkmaz1&show_icons=true&line_height=27&count_private=true&theme=chartreuse-dark" alt="Aykut's GitHub Stats" />
-</a>
+</a> <br>
 
 <p align="center"><strong>Social Accounts:</strong> <br>
 <a href="https://www.linkedin.com/in/aykutkorkmazx/">
