@@ -1,4 +1,5 @@
 <p><strong>Contact</strong></p> <br>
+
 [![Linkedin](https://img.shields.io/badge/LinkedIn-Aykut%20Korkmaz-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/aykutkorkmazx/)
 [![Twitter](https://img.shields.io/badge/Twitter-Aykut%20Korkmaz-blue?logo=Twitter&logoColor=blue&labelColor=black)](https://twitter.com/AykutKorkmazX)
 [![Facebook](https://img.shields.io/badge/Facebook-Aykut%20Korkmaz-blue?logo=Facebook&logoColor=blue&labelColor=black)](https://www.facebook.com/aykutkorkmazX)
