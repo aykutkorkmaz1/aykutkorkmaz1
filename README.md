@@ -8,7 +8,7 @@
 <h3 align='center'><strong><a href="http://aykut.codes" target="_blank">Personal Website 🌐</a></strong></h3>
 <p align='center'><strong>Software developer | Web - JavaScript Developer | Industrial Automation Technologist</strong></p> <br>
 <!-- ![Profile views](https://gpvc.arturio.dev/aykutkorkmaz1) -->
-As someone who loves computers and especially coding, I enjoy learning something new every day. Writing code is a source of happiness for me. In addition to these, I am studying Industrial Automation Technologies. I have intermediate knowledge of electricity, mechatronics, technical drawing.
+As someone who loves computers and especially coding, I enjoy learning something new every day. Writing code is a source of happiness for me. In addition to these, I am studying Industrial Automation Technologies. I have intermediate knowledge of electricity, mechatronics, technical drawing. <br>
 
 🚩 **Highlights:** <br>
 <a><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='25' height='25'></a> <a><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='25' height='25'></a> 
@@ -26,10 +26,10 @@ Tools & Languages <br>
 
 🤔 **Knowledge of:**<br>
 <code>Electricity, Mechatronics, PLC programming, JavaScript, Data Structures and Algorithms</code>
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<USERNAME>&theme=<THEME_NAME>" />
+
  
 ![Aykut's github stats](https://github-readme-stats.vercel.app/api?username=aykutkorkmaz1&theme=chartreuse-dark&show_icons=true)
-<!-- ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=aykutkorkmaz1) -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aykutkorkmaz1&layout=compact&theme=chartreuse-dark&show_icons=true) 
-
-[![Linkedin](https://img.shields.io/badge/LinkedIn-Aykut%20Korkmaz-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/aykutkorkmazx/)
-[![Twitter](https://img.shields.io/badge/Twitter-Aykut%20Korkmaz-blue?logo=Twitter&logoColor=blue&labelColor=black)](https://twitter.com/AykutKorkmazX)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aykutkorkmaz1&layout=compact&theme=chartreuse-dark&show_icons=true)
+<!-- ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=aykutkorkmaz1) --> 
