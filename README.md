@@ -27,9 +27,14 @@ Tools & Languages <br>
 🤔 **Knowledge of:**<br>
 <code>Electricity, Mechatronics, PLC programming, JavaScript, Data Structures and Algorithms</code>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<USERNAME>&theme=<THEME_NAME>" />
+<a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartinHeinz&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+<a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MartinHeinz&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
+</a>
 
  
-![Aykut's github stats](https://github-readme-stats.vercel.app/api?username=aykutkorkmaz1&theme=chartreuse-dark&show_icons=true)
+<!-- ![Aykut's github stats](https://github-readme-stats.vercel.app/api?username=aykutkorkmaz1&theme=chartreuse-dark&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aykutkorkmaz1&layout=compact&theme=chartreuse-dark&show_icons=true)
-<!-- ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=aykutkorkmaz1) --> 
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=aykutkorkmaz1) -->
