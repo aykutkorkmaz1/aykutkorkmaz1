@@ -29,10 +29,11 @@ Tools & Languages <br>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=aykutkorkmaz1&show_icons=true&line_height=27&count_private=true&theme=chartreuse-dark" alt="Aykut's GitHub Stats" />
 </a>
 
-Social Accounts: <br>
+<p align="center">Social Accounts: <br>
 <a href="https://www.linkedin.com/in/aykutkorkmazx/">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width='25' height='25'/>
 </a>
 <a href="https://twitter.com/AykutKorkmazX">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" width='25' height='25'/>
 </a>
+</p>
