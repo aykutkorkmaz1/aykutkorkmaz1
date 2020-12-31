@@ -32,12 +32,12 @@ Tools & Languages <br>
 
 <p align="center"><strong>Social Accounts:</strong> <br>
 <a href="https://www.linkedin.com/in/aykutkorkmazx/">
-    <img align="center" src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue" width='25' height='25'/>
+    <img align="center" src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue"/>
 </a>
 <a href="https://twitter.com/AykutKorkmazX">
-    <img align="center" src="https://img.shields.io/badge/Twitter-blue?style=flat&logo=twitter&labelColor=blue" width='25' height='25'/>
+    <img align="center" src="https://img.shields.io/badge/Twitter-blue?style=flat&logo=twitter&labelColor=blue"/>
 </a>
 <a href="https://www.facebook.com/aykutkorkmazX">
-    <img align="center" src="https://img.shields.io/badge/Facebook-informational?style=flat&logo=facebook&labelColor=blue" width='25' height='25'/>
+    <img align="center" src="https://img.shields.io/badge/Facebook-informational?style=flat&logo=facebook&labelColor=blue"/>
 </a>
 </p>
