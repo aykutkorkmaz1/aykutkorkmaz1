@@ -9,9 +9,9 @@ As someone who loves computers and especially coding, I enjoy learning something
 <a><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='25' height='25'/></a> 
 
 Tools & Languages <br>
-![Git](https://img.shields.io/badge/Git-ffffff?style=flat&logo=git&labelColor=black)
-![GitHub](https://img.shields.io/badge/GitHub-ffffff?style=flat&logo=github&labelColor=black)
-![Visual Studio Code](https://img.shields.io/badge/VSCode-ffffff?style=flat&logo=visual-studio-code&labelColor=black)
+![Git](https://img.shields.io/badge/Git-6727d6?style=flat&logo=git&labelColor=black)
+![GitHub](https://img.shields.io/badge/GitHub-6727d6?style=flat&logo=github&labelColor=black)
+![Visual Studio Code](https://img.shields.io/badge/VSCode-6727d6?style=fl6727d6at&logo=visual-studio-code&labelColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-ffffff?style=flat&logo=html5&labelColor=black)
 ![CSS3](https://img.shields.io/badge/CSS3-ffffff?style=flat&logo=css3&labelColor=black) 
 ![JavaScript](https://img.shields.io/badge/JavaScript-ffffff?style=flat&logo=javascript&labelColor=black)
