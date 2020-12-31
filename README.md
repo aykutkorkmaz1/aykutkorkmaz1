@@ -30,14 +30,17 @@ Tools & Languages <br>
 </a>
 <br>
 
-<p align="center"><strong>Social Accounts:</strong> <br>
+<p align="center"><strong>Contact</strong> <br>
 <a href="https://www.linkedin.com/in/aykutkorkmazx/">
-    <img align="center" src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue"/>
+    <img align="center" src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=black"/>
 </a>
 <a href="https://twitter.com/AykutKorkmazX">
     <img align="center" src="https://img.shields.io/badge/Twitter-blue?style=flat&logo=twitter&labelColor=black"/>
 </a>
 <a href="https://www.facebook.com/aykutkorkmazX">
     <img align="center" src="https://img.shields.io/badge/Facebook-informational?style=flat&logo=facebook&labelColor=black"/>
+</a>
+<a href="mailto:aykutkorkmaz.original@gmail.com">
+    <img align="center" src="https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&labelColor=black"/>
 </a>
 </p>
