@@ -23,7 +23,7 @@ Tools & Languages <br>
 <code>Electricity, Mechatronics, PLC programming, JavaScript, Data Structures and Algorithms</code>
 
 <a href="https://github.com/aykutkorkmaz1">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aykutkorkmaz1&hide=java,html&theme=chartreuse-dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aykutkorkmaz1&hide=java,html&title_color=80ffff&text_color=ffffff&icon_color=975cff&bg_color=000000&cache_seconds=4700&locale=en" />
 </a>
 <a href="https://github.com/aykutkorkmaz1">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=aykutkorkmaz1&show_icons=true&line_height=27&count_private=true&title_color=80ffff&text_color=ffffff&icon_color=975cff&bg_color=000000&cache_seconds=4700&locale=en" alt="Aykut's GitHub Stats" />
