@@ -35,9 +35,9 @@ Tools & Languages <br>
     <img align="center" src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue"/>
 </a>
 <a href="https://twitter.com/AykutKorkmazX">
-    <img align="center" src="https://img.shields.io/badge/Twitter-blue?style=flat&logo=twitter&labelColor=blue"/>
+    <img align="center" src="https://img.shields.io/badge/Twitter-blue?style=flat&logo=twitter&labelColor=black"/>
 </a>
 <a href="https://www.facebook.com/aykutkorkmazX">
-    <img align="center" src="https://img.shields.io/badge/Facebook-informational?style=flat&logo=facebook&labelColor=blue"/>
+    <img align="center" src="https://img.shields.io/badge/Facebook-informational?style=flat&logo=facebook&labelColor=black"/>
 </a>
 </p>
