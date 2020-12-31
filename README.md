@@ -26,7 +26,7 @@ Tools & Languages <br>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aykutkorkmaz1&hide=java,html&theme=chartreuse-dark" />
 </a>
 <a href="https://github.com/aykutkorkmaz1">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=aykutkorkmaz1&show_icons=true&line_height=27&count_private=true&title_color=2b84ff&text_color=ffffff&icon_color=6727d6&bg_color=000000&cache_seconds=4700&locale=en" alt="Aykut's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=aykutkorkmaz1&show_icons=true&line_height=27&count_private=true&title_color=326de3&text_color=ffffff&icon_color=6727d6&bg_color=000000&cache_seconds=4700&locale=en" alt="Aykut's GitHub Stats" />
 </a>
 <br>
 
