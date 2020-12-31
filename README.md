@@ -32,15 +32,15 @@ Tools & Languages <br>
 
 <p align="center"><strong>Contact</strong> <br>
 <a href="https://www.linkedin.com/in/aykutkorkmazx/">
-    <img align="center" src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&labelColor=black"/>
+    <img align="center" src="https://img.shields.io/badge/LinkedIn-6727d6?style=flat-square&logo=linkedin&labelColor=black"/>
 </a>
 <a href="https://twitter.com/AykutKorkmazX">
-    <img align="center" src="https://img.shields.io/badge/Twitter-blue?style=flat-square&logo=twitter&labelColor=black"/>
+    <img align="center" src="https://img.shields.io/badge/Twitter-6727d6?style=flat-square&logo=twitter&labelColor=black"/>
 </a>
 <a href="https://www.facebook.com/aykutkorkmazX">
-    <img align="center" src="https://img.shields.io/badge/Facebook-informational?style=flat-square&logo=facebook&labelColor=black"/>
+    <img align="center" src="https://img.shields.io/badge/Facebook-6727d6?style=flat-square&logo=facebook&labelColor=black"/>
 </a>
 <a href="mailto:aykutkorkmaz.original@gmail.com">
-    <img align="center" src="https://img.shields.io/badge/Gmail-red?style=flat-square&logo=gmail&labelColor=black"/>
+    <img align="center" src="https://img.shields.io/badge/Gmail-6727d6?style=flat-square&logo=gmail&labelColor=black"/>
 </a>
 </p>
