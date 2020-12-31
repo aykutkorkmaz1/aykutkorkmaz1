@@ -9,15 +9,15 @@ As someone who loves computers and especially coding, I enjoy learning something
 <a><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='25' height='25'/></a> 
 
 Tools & Languages <br>
-![Git](https://img.shields.io/badge/Git-black?style=flat&logo=git&labelColor=black)
-![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github&labelColor=black)
-![Visual Studio Code](https://img.shields.io/badge/VSCode-black?style=flat&logo=visual-studio-code&labelColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-black?style=flat&logo=html5&labelColor=black)
-![CSS3](https://img.shields.io/badge/CSS3-black?style=flat&logo=css3&labelColor=black) 
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=flat&logo=javascript&labelColor=black)
-![React](https://img.shields.io/badge/React-black?style=flat&logo=react&labelColor=black)
-![Nodejs](https://img.shields.io/badge/NodeJS-black?style=flat&logo=Node.js&labelColor=black)
-![NPM](https://img.shields.io/badge/NPM-black?style=flat&logo=npm&labelColor=black)
+![Git](https://img.shields.io/badge/Git-ffffff?style=flat&logo=git&labelColor=black)
+![GitHub](https://img.shields.io/badge/GitHub-ffffff?style=flat&logo=github&labelColor=black)
+![Visual Studio Code](https://img.shields.io/badge/VSCode-ffffff?style=flat&logo=visual-studio-code&labelColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-ffffff?style=flat&logo=html5&labelColor=black)
+![CSS3](https://img.shields.io/badge/CSS3-ffffff?style=flat&logo=css3&labelColor=black) 
+![JavaScript](https://img.shields.io/badge/JavaScript-ffffff?style=flat&logo=javascript&labelColor=black)
+![React](https://img.shields.io/badge/React-ffffff?style=flat&logo=react&labelColor=black)
+![Nodejs](https://img.shields.io/badge/NodeJS-ffffff?style=flat&logo=Node.js&labelColor=black)
+![NPM](https://img.shields.io/badge/NPM-ffffff?style=flat&logo=npm&labelColor=black)
 
 🤔 **Knowledge of:**<br>
 <code>Electricity, Mechatronics, PLC programming, JavaScript, Data Structures and Algorithms</code>
