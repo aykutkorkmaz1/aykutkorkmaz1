@@ -11,13 +11,13 @@ As someone who loves computers and especially coding, I enjoy learning something
 Tools & Languages <br>
 ![Git](https://img.shields.io/badge/Git-6727d6?style=flat&logo=git&labelColor=black)
 ![GitHub](https://img.shields.io/badge/GitHub-6727d6?style=flat&logo=github&labelColor=black)
-![Visual Studio Code](https://img.shields.io/badge/VSCode-6727d6?style=fl6727d6at&logo=visual-studio-code&labelColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-ffffff?style=flat&logo=html5&labelColor=black)
-![CSS3](https://img.shields.io/badge/CSS3-ffffff?style=flat&logo=css3&labelColor=black) 
-![JavaScript](https://img.shields.io/badge/JavaScript-ffffff?style=flat&logo=javascript&labelColor=black)
-![React](https://img.shields.io/badge/React-ffffff?style=flat&logo=react&labelColor=black)
-![Nodejs](https://img.shields.io/badge/NodeJS-ffffff?style=flat&logo=Node.js&labelColor=black)
-![NPM](https://img.shields.io/badge/NPM-ffffff?style=flat&logo=npm&labelColor=black)
+![Visual Studio Code](https://img.shields.io/badge/VSCode-6727d6?style=flat&logo=visual-studio-code&labelColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-6727d6?style=flat&logo=html5&labelColor=black)
+![CSS3](https://img.shields.io/badge/CSS3-6727d6?style=flat&logo=css3&labelColor=black) 
+![JavaScript](https://img.shields.io/badge/JavaScript-6727d6?style=flat&logo=javascript&labelColor=black)
+![React](https://img.shields.io/badge/React-6727d6?style=flat&logo=react&labelColor=black)
+![Nodejs](https://img.shields.io/badge/NodeJS-6727d6?style=flat&logo=Node.js&labelColor=black)
+![NPM](https://img.shields.io/badge/NPM-6727d6?style=flat&logo=npm&labelColor=black)
 
 🤔 **Knowledge of:**<br>
 <code>Electricity, Mechatronics, PLC programming, JavaScript, Data Structures and Algorithms</code>
