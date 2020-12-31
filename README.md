@@ -9,15 +9,15 @@ As someone who loves computers and especially coding, I enjoy learning something
 <a><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='25' height='25'/></a> 
 
 Tools & Languages <br>
-![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032&labelColor=ffffff)
-![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=000000&labelColor=ffffff)
-![Visual Studio Code](https://img.shields.io/badge/-VSCode-000000?style=flat&logo=visual-studio-code&labelColor=007ACC)
-![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5&logoColor=ffffff&labelColor=E34F26)
-![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3&logoColor=ffffff&labelColor=1572B6) 
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
-![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react)
-![Nodejs](https://img.shields.io/badge/-Nodejs-000000?style=flat&logo=Node.js)
-![NPM](https://img.shields.io/badge/-NPM-000000?style=flat&logo=npm&labelColor=ffffff)
+![Git](https://img.shields.io/badge/Git-black?style=flat&logo=git&labelColor=black)
+![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github&labelColor=black)
+![Visual Studio Code](https://img.shields.io/badge/VSCode-black?style=flat&logo=visualstudiocode&labelColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-black?style=flat&logo=html5&labelColor=black)
+![CSS3](https://img.shields.io/badge/CSS3-black?style=flat&logo=css3&labelColor=black) 
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=flat&logo=javascript&labelColor=black)
+![React](https://img.shields.io/badge/React-black?style=flat&logo=react&labelColor=black)
+![Nodejs](https://img.shields.io/badge/Node.JS-black?style=flat&logo=node-dot-js&labelColor=black)
+![NPM](https://img.shields.io/badge/NPM-black?style=flat&logo=npm&labelColor=black)
 
 🤔 **Knowledge of:**<br>
 <code>Electricity, Mechatronics, PLC programming, JavaScript, Data Structures and Algorithms</code>
