@@ -16,7 +16,7 @@ Tools & Languages <br>
 ![CSS3](https://img.shields.io/badge/CSS3-black?style=flat&logo=css3&labelColor=black) 
 ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=flat&logo=javascript&labelColor=black)
 ![React](https://img.shields.io/badge/React-black?style=flat&logo=react&labelColor=black)
-![Nodejs](https://img.shields.io/badge/Node.JS-black?style=flat&logo=Node.js&labelColor=black)
+![Nodejs](https://img.shields.io/badge/NodeJS-black?style=flat&logo=Node.js&labelColor=black)
 ![NPM](https://img.shields.io/badge/NPM-black?style=flat&logo=npm&labelColor=black)
 
 🤔 **Knowledge of:**<br>
