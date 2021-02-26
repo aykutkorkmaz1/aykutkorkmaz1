@@ -23,6 +23,7 @@ Tools & Languages <br>
 ![React](https://img.shields.io/badge/React-6727d6?style=flat&logo=react&labelColor=black)
 ![Nodejs](https://img.shields.io/badge/NodeJS-6727d6?style=flat&logo=Node.js&labelColor=black)
 ![NPM](https://img.shields.io/badge/NPM-6727d6?style=flat&logo=npm&labelColor=black)
+![Yarn](https://img.shields.io/badge/Yarn-6727d6?style=flat&logo=yarn&labelColor=black)
 
 🤔 **Knowledge of:**<br>
 <code>Electricity, Mechatronics, PLC programming, JavaScript, Data Structures and Algorithms</code>
@@ -34,7 +35,7 @@ Tools & Languages <br>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=aykutkorkmaz1&show_icons=true&line_height=27&count_private=true&title_color=80ffff&text_color=ffffff&icon_color=975cff&bg_color=000000&cache_seconds=4700&locale=en" alt="Aykut's GitHub Stats" />
 </a>
 <br>
-
+<br>
 <p align="center"><strong>Contact</strong> <br>
 <a href="https://www.linkedin.com/in/aykutkorkmazx/">
     <img align="center" src="https://img.shields.io/badge/LinkedIn-6727d6?style=flat-square&logo=linkedin&labelColor=black"/>
