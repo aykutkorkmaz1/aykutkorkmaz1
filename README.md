@@ -9,24 +9,28 @@
 
 <h4 align='center'>As someone who loves computers and especially coding, I enjoy learning something new every day. Writing code is a source of happiness for me. In addition to these, I am studying Industrial Automation Technologies. I have intermediate knowledge of electricity, mechatronics, technical drawing.</h2><br>
 
+<!--
 🚩 **Highlights:** <br>
 <a><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='25' height='25'/></a> 
-<a><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='25' height='25'/></a>
+<a><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='25' height='25'/></a> -->
 
 Tools & Languages <br>
-![Git](https://img.shields.io/badge/Git-6727d6?style=flat&logo=git&labelColor=black)
-![GitHub](https://img.shields.io/badge/GitHub-6727d6?style=flat&logo=github&labelColor=black)
-![Visual Studio Code](https://img.shields.io/badge/VSCode-6727d6?style=flat&logo=visual-studio-code&labelColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-6727d6?style=flat&logo=html5&labelColor=black)
-![CSS3](https://img.shields.io/badge/CSS3-6727d6?style=flat&logo=css3&labelColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-6727d6?style=flat&logo=javascript&labelColor=black)
-![React](https://img.shields.io/badge/React-6727d6?style=flat&logo=react&labelColor=black)
-![Nodejs](https://img.shields.io/badge/NodeJS-6727d6?style=flat&logo=Node.js&labelColor=black)
-![NPM](https://img.shields.io/badge/NPM-6727d6?style=flat&logo=npm&labelColor=black)
-![Yarn](https://img.shields.io/badge/Yarn-6727d6?style=flat&logo=yarn&labelColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-black?style=flat-square&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-black?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=javascript)
+![React](https://img.shields.io/badge/ReactJS-black?style=flat-square&logo=react)
+![Nodejs](https://img.shields.io/badge/NodeJS-black?style=flat-square&logo=Node.js)
+![NPM](https://img.shields.io/badge/NPM-black?style=flat-square&logo=npm)
+![Yarn](https://img.shields.io/badge/Yarn-black?style=flat-square&logo=yarn)
+
+![Visual Studio Code](https://img.shields.io/badge/VSCode-black?style=flat-square&logo=visual-studio-code)
+![Atom](https://img.shields.io/badge/Atom-black?style=flat-square&logo=atom)
+![Git](https://img.shields.io/badge/Git-black?style=flat-square&logo=git)
+![Chrome](https://img.shields.io/badge/Chrome-black?style=flat-square&logo=googlechrome)
+![Adobe XD](https://img.shields.io/badge/Adobe_XD-black?style=flat-square&logo=adobexd)
 
 🤔 **Knowledge of:**<br>
-<code>Electricity, Mechatronics, PLC programming, JavaScript, Data Structures and Algorithms</code>
+<code>Electricity, Mechatronic, PLC programming, JavaScript, Robotic Arms</code>
 
 <a href="https://github.com/aykutkorkmaz1">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aykutkorkmaz1&hide=java,html&title_color=80ffff&text_color=ffffff&icon_color=975cff&bg_color=000000&cache_seconds=4700&locale=en" />
@@ -48,5 +52,8 @@ Tools & Languages <br>
 </a>
 <a href="mailto:aykutkorkmaz.original@gmail.com">
     <img align="center" src="https://img.shields.io/badge/Gmail-6727d6?style=flat-square&logo=gmail&labelColor=black"/>
+</a>
+<a href="https://www.instagram.com/aykutk.us/">
+    <img align="center" src="https://img.shields.io/badge/Instagram-6727d6?style=flat-square&logo=instagram&labelColor=black"/>
 </a>
 </p>
