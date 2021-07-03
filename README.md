@@ -7,53 +7,57 @@
 
 <!-- ![Profile views](https://gpvc.arturio.dev/aykutkorkmaz1) -->
 
-<h4 align='center'>As someone who loves computers and especially coding, I enjoy learning something new every day. Writing code is a source of happiness for me. In addition to these, I am studying Industrial Automation Technologies. I have intermediate knowledge of electricity, mechatronics, technical drawing.</h2><br>
-
+<h4 align='center'>As someone who loves computers and especially coding, I enjoy learning something new every day. Writing code is a source of happiness for me. In addition to these, I am studying Industrial Automation Technologies. I have intermediate knowledge of electricity, mechatronics, technical drawing.</h2>
+<p align="center">
+<a href="https://www.linkedin.com/in/aykutkorkmazx/">
+    <img align="center" src="https://img.shields.io/badge/LinkedIn-181818?style=flat-square&logo=linkedin"/>
+</a>
+<a href="https://twitter.com/AykutKorkmazX">
+    <img align="center" src="https://img.shields.io/badge/Twitter-181818?style=flat-square&logo=twitter"/>
+</a>
+<a href="https://www.facebook.com/aykutkorkmazX">
+    <img align="center" src="https://img.shields.io/badge/Facebook-181818?style=flat-square&logo=facebook"/>
+</a>
+<a href="mailto:aykutkorkmaz.original@gmail.com">
+    <img align="center" src="https://img.shields.io/badge/Gmail-181818?style=flat-square&logo=gmail"/>
+</a>
+<a href="https://www.instagram.com/aykutk.us/">
+    <img align="center" src="https://img.shields.io/badge/Instagram-181818?style=flat-square&logo=instagram"/>
+</a>
+</p>
 <!--
 🚩 **Highlights:** <br>
 <a><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='25' height='25'/></a> 
 <a><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='25' height='25'/></a> -->
+<hr>
 
-Tools & Languages <br>
-![HTML5](https://img.shields.io/badge/HTML5-black?style=flat-square&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-black?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=javascript)
-![React](https://img.shields.io/badge/ReactJS-black?style=flat-square&logo=react)
-![Nodejs](https://img.shields.io/badge/NodeJS-black?style=flat-square&logo=Node.js)
-![NPM](https://img.shields.io/badge/NPM-black?style=flat-square&logo=npm)
-![Yarn](https://img.shields.io/badge/Yarn-black?style=flat-square&logo=yarn)
+### **Tech Stack** <br>
 
-![Visual Studio Code](https://img.shields.io/badge/VSCode-black?style=flat-square&logo=visual-studio-code)
-![Atom](https://img.shields.io/badge/Atom-black?style=flat-square&logo=atom)
-![Git](https://img.shields.io/badge/Git-black?style=flat-square&logo=git)
-![Chrome](https://img.shields.io/badge/Chrome-black?style=flat-square&logo=googlechrome)
-![Adobe XD](https://img.shields.io/badge/Adobe_XD-black?style=flat-square&logo=adobexd)
+![HTML](https://img.shields.io/badge/HTML-181818?style=flat&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-181818?style=flat&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-181818?style=flat&logo=javascript)
+![React](https://img.shields.io/badge/ReactJS-181818?style=flat&logo=react)
+![Nodejs](https://img.shields.io/badge/NodeJS-181818?style=flat&logo=Node.js)
+![NPM](https://img.shields.io/badge/NPM-181818?style=flat&logo=npm)
+![Yarn](https://img.shields.io/badge/Yarn-181818?style=flat&logo=yarn)
+![Visual Studio Code](https://img.shields.io/badge/VSCode-181818?style=flat&logo=visual-studio-code)
+![Atom](https://img.shields.io/badge/Atom-181818?style=flat&logo=atom)
+![Git](https://img.shields.io/badge/Git-181818?style=flat&logo=git)
+![Chrome](https://img.shields.io/badge/Chrome-181818?style=flat&logo=googlechrome)
+![Adobe XD](https://img.shields.io/badge/Adobe_XD-181818?style=flat&logo=adobexd)
+![Windows](https://img.shields.io/badge/Windows-181818?style=flat&logo=windows)
 
-🤔 **Knowledge of:**<br>
-<code>Electricity, Mechatronic, PLC programming, JavaScript, Robotic Arms</code>
+<hr>
 
-<a href="https://github.com/aykutkorkmaz1">
-  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aykutkorkmaz1&hide=java,html&title_color=80ffff&text_color=ffffff&icon_color=975cff&bg_color=000000&cache_seconds=4700&locale=en" />
-</a>
-<a href="https://github.com/aykutkorkmaz1">
-  <img align="top" src="https://github-readme-stats.vercel.app/api?username=aykutkorkmaz1&show_icons=true&line_height=27&count_private=true&title_color=80ffff&text_color=ffffff&icon_color=975cff&bg_color=000000&cache_seconds=4700&locale=en" alt="Aykut's GitHub Stats" />
-</a>
-<br>
-<br>
-<p align="center"><strong>Contact</strong> <br>
-<a href="https://www.linkedin.com/in/aykutkorkmazx/">
-    <img align="center" src="https://img.shields.io/badge/LinkedIn-6727d6?style=flat-square&logo=linkedin&labelColor=black"/>
-</a>
-<a href="https://twitter.com/AykutKorkmazX">
-    <img align="center" src="https://img.shields.io/badge/Twitter-6727d6?style=flat-square&logo=twitter&labelColor=black"/>
-</a>
-<a href="https://www.facebook.com/aykutkorkmazX">
-    <img align="center" src="https://img.shields.io/badge/Facebook-6727d6?style=flat-square&logo=facebook&labelColor=black"/>
-</a>
-<a href="mailto:aykutkorkmaz.original@gmail.com">
-    <img align="center" src="https://img.shields.io/badge/Gmail-6727d6?style=flat-square&logo=gmail&labelColor=black"/>
-</a>
-<a href="https://www.instagram.com/aykutk.us/">
-    <img align="center" src="https://img.shields.io/badge/Instagram-6727d6?style=flat-square&logo=instagram&labelColor=black"/>
-</a>
+### **My Popular Blog Posts**
+
+- [WWDC20 Highlights](https://medium.com/macoclock/wwdc-2020-highlights-f852465f2909)
+- [WWDC21 Highlights](https://medium.com/macoclock/wwdc21-highlights-b2be857742f6)
+- [Apple Event 2021 Highlights](https://medium.com/macoclock/apple-event-2021-highlights-63ce0e723a85)
+<hr>
+
+<p align="center">
+<img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aykutkorkmaz1&hide=java,html&title_color=80ffff&text_color=ffffff&icon_color=975cff&bg_color=000000&cache_seconds=4700&locale=en" />
+
+<img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=aykutkorkmaz1&show_icons=true&line_height=27&count_private=true&title_color=80ffff&text_color=ffffff&icon_color=975cff&bg_color=000000&cache_seconds=4700&locale=en" alt="Aykut's GitHub Stats" />
 </p>
