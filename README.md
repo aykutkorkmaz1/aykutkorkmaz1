@@ -29,7 +29,7 @@
 <a><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='25' height='25'/></a> -->
 <hr>
 
-### **Tech Stack** <br>
+### **Language & Tools** <br>
 
 ![HTML](https://img.shields.io/badge/HTML-181818?style=flat&logo=html5)
 ![CSS](https://img.shields.io/badge/CSS-181818?style=flat&logo=css3)
