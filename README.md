@@ -3,9 +3,7 @@
 <h3 align='center'><strong><a href="http://aykut.codes" target="_blank">Personal Website 🌐</a></strong></h3>
 <p align='center'><strong>Software developer | Web - JavaScript Developer | Industrial Automation Technologist</strong></p> <br> -->
 
-![](banner.png)
-
-<!-- ![Profile views](https://gpvc.arturio.dev/aykutkorkmaz1) -->
+# Aykut Korkmaz
 
 <h4 align='left'>As someone who loves computers and especially coding, I enjoy learning something new every day. Writing code is a source of happiness for me. In addition to these, I am studying Industrial Automation Technologies. I have intermediate knowledge of electricity, mechatronics, technical drawing.</h2>
 <h4 align='center'>love code. today's world cannot be without they.</h2>
