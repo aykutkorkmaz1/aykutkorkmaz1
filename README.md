@@ -35,7 +35,6 @@
 ![CSS](https://img.shields.io/badge/CSS-181818?style=flat&logo=css3)
 ![JavaScript](https://img.shields.io/badge/JavaScript-181818?style=flat&logo=javascript)
 ![React](https://img.shields.io/badge/ReactJS-181818?style=flat&logo=react)
-![Nodejs](https://img.shields.io/badge/NodeJS-181818?style=flat&logo=Node.js)
 ![NPM](https://img.shields.io/badge/NPM-181818?style=flat&logo=npm)
 ![Yarn](https://img.shields.io/badge/Yarn-181818?style=flat&logo=yarn)\
 ![Visual Studio Code](https://img.shields.io/badge/VSCode-181818?style=flat&logo=visual-studio-code)
