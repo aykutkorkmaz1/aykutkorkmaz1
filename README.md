@@ -5,9 +5,7 @@
 
 # Aykut Korkmaz
 
-<h4 align='left'>As someone who loves computers and especially coding, I enjoy learning something new every day. Writing code is a source of happiness for me. In addition to these, I am studying Industrial Automation Technologies. I have intermediate knowledge of electricity, mechatronics, technical drawing.</h2>
-<h4 align='center'>love code. today's world cannot be without they.</h2>
-<p align="center"> Get in touch
+<h4 align='left'>I enjoy writing code. I wouldn't trade the pleasure it gave when solving the problem for anything. <br /> love code. today's world cannot be without they.</h2>
 <a href="https://www.linkedin.com/in/aykutkorkmazx/">
     <img align="center" src="https://img.shields.io/badge/LinkedIn-181818?style=flat-square&logo=linkedin"/>
 </a>
@@ -20,7 +18,6 @@
 <a href="https://www.instagram.com/aykutk.us/">
     <img align="center" src="https://img.shields.io/badge/Instagram-181818?style=flat-square&logo=instagram"/>
 </a>
-</p>
 <!--
 🚩 **Highlights:** <br>
 <a><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='25' height='25'/></a> 
@@ -46,9 +43,10 @@
 
 ### **My Popular Blog Posts**
 
-- [WWDC20 Highlights](https://medium.com/macoclock/wwdc-2020-highlights-f852465f2909)
-- [WWDC21 Highlights](https://medium.com/macoclock/wwdc21-highlights-b2be857742f6)
-- [Apple Event 2021 Highlights](https://medium.com/macoclock/apple-event-2021-highlights-63ce0e723a85)
+- [WWDC20 Highlights](https://aykut.hashnode.dev/wwdc-2020-highlights)
+- [WWDC21 Highlights](https://aykut.hashnode.dev/wwdc21-highlights)
+- [April, 2021 — Apple Event](https://aykut.hashnode.dev/apple-event-2021-highlights)
+- [September, 2021 — Apple Event](https://aykut.hashnode.dev/september-2021-apple-event)
 <hr>
 
 <p align="center">
